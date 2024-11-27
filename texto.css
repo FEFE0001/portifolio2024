@@ -1,0 +1,24 @@
+h1, h2, h3, p, a{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1, h2, h3{
+    width: 100%;
+    text-align: center;
+}
+#whatsapp:haver{
+    background-image: -o-linear-gradient(green,lime);
+    border-radius: 20pt;
+    padding: 10px;
+    transition: 1s;
+}
+#whatsapp{
+transition: 1s;
+}
+#instagram.haver{
+    background-image: -o-linear-gradient(to right,purple,orange);
+    border-radius: 20pt;
+    padding: 10px;
+    transition: 1s;
+}
+#instagram{transition: 1;}
